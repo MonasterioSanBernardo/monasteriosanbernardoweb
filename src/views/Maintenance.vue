@@ -7,7 +7,6 @@
                         <!-- <v-img src="@/assets/trabajo-en-progreso.png"></v-img> -->
                     </v-card-item>
                 </v-card>
-
             </v-col>
         </v-row>
     </v-container>
