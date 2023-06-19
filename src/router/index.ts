@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
   {
-    path: '/monasteriosanbernardoweb/',
+    path: '',
     component: () => import('@/layouts/default/Default.vue'),
     children: [
       {
@@ -19,7 +19,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  history: createWebHistory('/monasteriosanbernardoweb/'),
   routes,
 })
 
