@@ -1,1 +1,0 @@
-import{p as n,k as o}from"./index-d39a967b.js";const p=n({class:[String,Array],style:{type:[String,Array,Object],default:null}},"component");function u(t){const e=o("useRender");e.render=t}const g=n({tag:{type:String,default:"div"}},"tag"),m=(t,e)=>{const r=t.__vccOpts||t;for(const[s,a]of e)r[s]=a;return r};export{m as _,g as a,p as m,u};
